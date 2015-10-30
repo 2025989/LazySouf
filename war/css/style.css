@@ -1,1 +1,102 @@
 @CHARSET "ISO-8859-1";
+
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logospace {
+	padding:                               0;
+	margin-left:            		    20px;
+	margin-top:  			            40px;
+	margin-left:			            30px;
+}
+
+header {
+	position:  		   relative;
+	width:                 100%;
+	top:                   20px;
+	height:                40px;
+	background-color:   #1a8fce;
+	color:                white;
+	font-size:             150%;
+	
+
+
+
+	
+}
+
+header ul {
+	list-style-type:     none;
+	padding-top:        2.5px;
+	margin-left:        270px;
+	
+}
+
+header li {
+    display:           inline;
+    padding:             10px;
+    
+}
+
+header a {
+	text-decoration:     none;
+}
+
+header a:link {
+	color:              black;
+}
+
+header a:visited {
+	color:              black;
+	
+}
+
+body {
+	margin: 			  					 0px;
+	padding:            				     0px;
+	background-image: url("/pics/wallpaper.png");
+	background-repeat: 				   no-repeat;
+	backround-size:                    100% 100%;
+	background-attachment:                 fixed;
+}
+
+section {
+	position:        relative;
+	margin:              auto;
+	top:                 20px;
+	width:              900px;
+	background-color: #000000;
+	color:              white;
+	padding:             30px;
+	padding-top:          5px;
+	padding-bottom:       5px;
+}
+
+footer {
+	position:        relative;
+	margin:              auto;
+	top:                 20px;
+	bottom:                 0;
+	width:               100%;
+	background-color: #050066;
+	color:              white;
+	
+}
+
+marquee {
+	margin-top: 		  5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
